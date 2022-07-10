@@ -2,7 +2,7 @@
 
 > 원제 : System Design Interview - An Insider's Guide, Second Edition
 
-<img src="./assets/korean-book-cover.jpg" alt="한글판 책표지" style="zoom:50%;" /> <img src="./assets/origin-book-cover.png" alt="원서 책 표지" style="zoom: 50%;" />
+<img src="./assets/korean-book-cover.jpg" alt="한글판 책표지" style="zoom:50%;" /> <img src="./assets/origin-book-cover.jpg" alt="원서 책 표지" style="zoom: 50%;" />
 
 ### 스터디원
 
